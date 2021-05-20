@@ -68,7 +68,7 @@ framebuffer-fbmem|Data|00009000
   * config.plist:OpenCore的配置文件
   * OpenCore.efi：引导加载程序
 
-#### 七 参考
+### 七 参考
 
 * HangzhouLoser.[新手挑战黑苹果第二弹-超详细的OpenCore黑苹果笔记本安装教程](https://www.bilibili.com/video/BV1kK4y1S74C/?spm_id_from=333.788.b_636f6d6d656e74.6).bilibili.
 
